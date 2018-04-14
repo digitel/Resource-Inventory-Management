@@ -1,0 +1,2 @@
+# Resource-Inventory-Management
+Implementation of TMF639_Resource_Inventory_Management_REST_API_Specification_R17.0.1
